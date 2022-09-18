@@ -1,0 +1,5 @@
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\netstandard2.0\Ecom.Common.csproj.AssemblyReference.cache
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\netstandard2.0\Ecom.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\netstandard2.0\Ecom.Common.AssemblyInfoInputs.cache
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\netstandard2.0\Ecom.Common.AssemblyInfo.cs
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\netstandard2.0\Ecom.Common.csproj.CoreCompileInputs.cache

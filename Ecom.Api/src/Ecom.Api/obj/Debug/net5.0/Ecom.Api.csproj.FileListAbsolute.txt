@@ -1,0 +1,12 @@
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\bin\Debug\net5.0\Ecom.Api.deps.json
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\bin\Debug\net5.0\Ecom.Api.dll
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\bin\Debug\net5.0\ref\Ecom.Api.dll
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\bin\Debug\net5.0\Ecom.Api.pdb
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.csproj.AssemblyReference.cache
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.AssemblyInfoInputs.cache
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.AssemblyInfo.cs
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.csproj.CoreCompileInputs.cache
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.dll
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\ref\Ecom.Api.dll
+D:\Ecom.PhoneMax\Ecom.Api\src\Ecom.Api\obj\Debug\net5.0\Ecom.Api.pdb

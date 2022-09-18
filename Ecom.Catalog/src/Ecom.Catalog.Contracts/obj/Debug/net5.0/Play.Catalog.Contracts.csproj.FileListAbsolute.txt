@@ -1,0 +1,12 @@
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\bin\Debug\net5.0\Ecom.Catalog.Contracts.deps.json
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\bin\Debug\net5.0\ref\Ecom.Catalog.Contracts.dll
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\bin\Debug\net5.0\Ecom.Catalog.Contracts.pdb
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.csproj.AssemblyReference.cache
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.AssemblyInfo.cs
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.dll
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\ref\Ecom.Catalog.Contracts.dll
+D:\projects\Ecom.Catalog\src\Ecom.Catalog.Contracts\obj\Debug\net5.0\Ecom.Catalog.Contracts.pdb

@@ -1,0 +1,12 @@
+D:\projects\Ecom.Common\src\Ecom.Common\bin\Debug\net5.0\Ecom.Common.deps.json
+D:\projects\Ecom.Common\src\Ecom.Common\bin\Debug\net5.0\Ecom.Common.dll
+D:\projects\Ecom.Common\src\Ecom.Common\bin\Debug\net5.0\Ecom.Common.pdb
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.csproj.AssemblyReference.cache
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.AssemblyInfoInputs.cache
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.AssemblyInfo.cs
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.csproj.CoreCompileInputs.cache
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.dll
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\Ecom.Common.pdb
+D:\projects\Ecom.Common\src\Ecom.Common\obj\Debug\net5.0\ref\Ecom.Common.dll
+D:\projects\Ecom.Common\src\Ecom.Common\bin\Debug\net5.0\ref\Ecom.Common.dll
