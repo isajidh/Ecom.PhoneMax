@@ -19,6 +19,18 @@ services:
       - rabbitmqdata:/var/lib/rabbitmq
     hostname: rabbitmq
 
+  ecom.inventory.service:
+    image: inventory
+    build:
+      context: inventory
+      dockerfile: Dockerfile
+         
+  ecom.catalog.service:
+    image: catalog
+    build: 
+      context: catalog
+      dockerfile: Dockerfile
+   
 volumes:
   mongodbdata:
   rabbitmqdata:

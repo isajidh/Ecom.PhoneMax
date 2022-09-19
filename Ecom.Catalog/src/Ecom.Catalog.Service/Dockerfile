@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY Ecom.Inventory.Service.csproj .
-RUN dotnet restore Ecom.Inventory.Service.csproj
+COPY Ecom.Catalog.Service.csproj .
+RUN dotnet restore Ecom.Catalog.Service.csproj
 COPY . .
 RUN dotnet publish -c release -o /app
 
@@ -10,4 +10,4 @@ WORKDIR /app
 EXPOSE 80
 EXPOSE 443
 COPY --from=build /app .
-ENTRYPOINT ["dotnet", "Ecom.Inventory.Service.dll"]
+ENTRYPOINT ["dotnet", "Ecom.Catalog.Service.dll"]

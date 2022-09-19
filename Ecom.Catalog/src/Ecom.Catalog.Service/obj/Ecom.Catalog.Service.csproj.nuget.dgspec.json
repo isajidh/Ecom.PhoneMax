@@ -43,11 +43,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Ecom.Api": {
+            "Ecommerce.PhoneMax.Api": {
               "target": "Package",
-              "version": "[1.0.2, )"
+              "version": "[1.0.0, )"
             },
-            "Ecom.Catalog.Contracts": {
+            "Ecommerce.PhoneMax.Catalog.Contracts": {
               "target": "Package",
               "version": "[1.0.0, )"
             },

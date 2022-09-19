@@ -14,7 +14,7 @@
           "lib/net5.0/DnsClient.dll": {}
         }
       },
-      "Ecom.Api/1.0.2": {
+      "Ecommerce.PhoneMax.Api/1.0.0": {
         "type": "package",
         "dependencies": {
           "MassTransit.aspnetcore": "7.3.1",
@@ -31,7 +31,7 @@
           "lib/net5.0/Ecom.Api.dll": {}
         }
       },
-      "Ecom.Catalog.Contracts/1.0.0": {
+      "Ecommerce.PhoneMax.Catalog.Contracts/1.0.0": {
         "type": "package",
         "compile": {
           "lib/net5.0/Ecom.Catalog.Contracts.dll": {}
@@ -671,25 +671,27 @@
         "lib/netstandard2.1/DnsClient.xml"
       ]
     },
-    "Ecom.Api/1.0.2": {
-      "sha512": "XG/BAHR1sfvIL475dxGOof8XgZfo+gf/zx4QZRQAWgGXo1DAtogKEVylEND30SFFljjJbr4+QYlo9vmtEkYaAg==",
+    "Ecommerce.PhoneMax.Api/1.0.0": {
+      "sha512": "jM3yB8bsTmqT4tHDnhEuJz2TgMCXiwU7YLFzZ5oIkt2udyfMRsbPu/MTdNh+We94S9dyLXs/UIiircE6SFGLXQ==",
       "type": "package",
-      "path": "ecom.api/1.0.2",
+      "path": "ecommerce.phonemax.api/1.0.0",
       "files": [
         ".nupkg.metadata",
-        "ecom.api.1.0.2.nupkg.sha512",
-        "ecom.api.nuspec",
+        ".signature.p7s",
+        "ecommerce.phonemax.api.1.0.0.nupkg.sha512",
+        "ecommerce.phonemax.api.nuspec",
         "lib/net5.0/Ecom.Api.dll"
       ]
     },
-    "Ecom.Catalog.Contracts/1.0.0": {
-      "sha512": "RvgXVOwwkm/jdPfZHd8Cs2JuW0QrlzuJHvPNBI84s0n2LUlxxBPO7/mLbCte2TneXBcEquuwulkFzL3Bc2SuiA==",
+    "Ecommerce.PhoneMax.Catalog.Contracts/1.0.0": {
+      "sha512": "Jdbmjad60d+jRizZoLQ9Jxj/YCu8vh25Q1pqtzXk0Ke8kYpw4+eLrSfIkiJkxsSTiUvBHniG5PAj6V9IFBhhyw==",
       "type": "package",
-      "path": "ecom.catalog.contracts/1.0.0",
+      "path": "ecommerce.phonemax.catalog.contracts/1.0.0",
       "files": [
         ".nupkg.metadata",
-        "ecom.catalog.contracts.1.0.0.nupkg.sha512",
-        "ecom.catalog.contracts.nuspec",
+        ".signature.p7s",
+        "ecommerce.phonemax.catalog.contracts.1.0.0.nupkg.sha512",
+        "ecommerce.phonemax.catalog.contracts.nuspec",
         "lib/net5.0/Ecom.Catalog.Contracts.dll"
       ]
     },
@@ -1780,8 +1782,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Ecom.Api >= 1.0.2",
-      "Ecom.Catalog.Contracts >= 1.0.0",
+      "Ecommerce.PhoneMax.Api >= 1.0.0",
+      "Ecommerce.PhoneMax.Catalog.Contracts >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -1802,7 +1804,6 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\Ecom.PhoneMax\\Ecom.Inventory\\src\\Ecom.Inventory.Service\\NuGet.Config",
         "C:\\Users\\Sajidh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1811,8 +1812,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Ecom.PhoneMax\\Ecom.Inventory\\src\\Ecom.Inventory.Service\\packages": {},
-        "D:\\projects\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1831,11 +1830,11 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "Ecom.Api": {
+          "Ecommerce.PhoneMax.Api": {
             "target": "Package",
-            "version": "[1.0.2, )"
+            "version": "[1.0.0, )"
           },
-          "Ecom.Catalog.Contracts": {
+          "Ecommerce.PhoneMax.Catalog.Contracts": {
             "target": "Package",
             "version": "[1.0.0, )"
           },

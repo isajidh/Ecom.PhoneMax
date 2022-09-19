@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1wKdxPf9xAWsgr2USX+UZT3rHtaECxvRSTHxmzSTtLCVtqTj5ETJ1A4yuNlA6Z/e6JjHO1ZKEAPB0kqYIbiSLA==",
+  "dgSpecHash": "CWudOkwYDmaHot4p1NDXmbrBtF7wMkTg4RSqqstYZL7bXKZ7kpogpYVW7UcOgEi82FLqpVEtBWPcWPFA0Lwd/w==",
   "success": true,
   "projectFilePath": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sajidh\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
-    "C:\\Users\\Sajidh\\.nuget\\packages\\ecom.api\\1.0.2\\ecom.api.1.0.2.nupkg.sha512",
-    "C:\\Users\\Sajidh\\.nuget\\packages\\ecom.catalog.contracts\\1.0.0\\ecom.catalog.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Sajidh\\.nuget\\packages\\ecommerce.phonemax.api\\1.0.0\\ecommerce.phonemax.api.1.0.0.nupkg.sha512",
+    "C:\\Users\\Sajidh\\.nuget\\packages\\ecommerce.phonemax.catalog.contracts\\1.0.0\\ecommerce.phonemax.catalog.contracts.1.0.0.nupkg.sha512",
     "C:\\Users\\Sajidh\\.nuget\\packages\\masstransit\\8.0.6\\masstransit.8.0.6.nupkg.sha512",
     "C:\\Users\\Sajidh\\.nuget\\packages\\masstransit.abstractions\\8.0.6\\masstransit.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\Sajidh\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",
