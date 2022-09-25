@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Col, Container, Row, Table, Button, Form } from 'react-bootstrap';
 
-export class Inventory extends Component
+export class Cart extends Component
 {
-  static displayName = Inventory.name;
+  static displayName = Cart.name;
 
   constructor(props)
   {
@@ -47,7 +47,7 @@ export class Inventory extends Component
         placeholder="Enter a user id"
         onChange={this.onChange}
         value={this.state.userId} />
-      <Button className="mb-2" variant="primary" onClick={() => this.populateItems()}>Get Inventory</Button>
+      <Button className="mb-2" variant="primary" onClick={() => this.populateItems()}>View Cart</Button>
     </Form>;
   }
 
@@ -96,7 +96,7 @@ export class Inventory extends Component
   {
     return (
       <div>
-        <h1 id="tabelLabel" >Inventory</h1>
+        <h1 id="tabelLabel" >Cart</h1>
         {this.renderInputs()}
         {this.renderItemsTable()}
       </div>
