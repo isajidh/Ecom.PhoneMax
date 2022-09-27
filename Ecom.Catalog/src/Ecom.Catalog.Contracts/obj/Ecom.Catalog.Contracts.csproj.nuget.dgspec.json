@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj": {}
+    "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj": {
+    "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj",
-        "projectName": "Ecommerce.PhoneMax.Catalog.Contracts",
-        "projectPath": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj",
+        "projectUniqueName": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj",
+        "projectName": "Ecom.Catalog.Contracts",
+        "projectPath": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\Ecom.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\Sajidh\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\obj\\",
+        "outputPath": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

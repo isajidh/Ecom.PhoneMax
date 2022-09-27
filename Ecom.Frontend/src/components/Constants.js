@@ -1,5 +1,4 @@
 export const ApplicationPaths = {
   CatalogPath: '/catalog',
-  CartPath: '/cart',
-  AboutPath: '/about'
+  InventoryPath: '/inventory'
 };

@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-node",
+            "type": "node",
             "request": "launch",
             "name": "Server",
             "runtimeExecutable": "npm",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "type": "pwa-msedge",
+            "type": "chrome",
             "request": "launch",
             "name": "Client",
             "url": "http://localhost:3000",

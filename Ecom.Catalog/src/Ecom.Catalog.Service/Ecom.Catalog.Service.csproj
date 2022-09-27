@@ -8,7 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Ecommerce.PhoneMax.Api" Version="1.0.0" />
     <PackageReference Include="Ecommerce.PhoneMax.Catalog.Contracts" Version="1.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
 </Project>

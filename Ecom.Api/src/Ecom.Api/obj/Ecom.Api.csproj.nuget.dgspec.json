@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj": {}
+    "c:\\Users\\Sajidh\\OneDrive\\Desktop\\test\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj": {}
   },
   "projects": {
-    "D:\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj": {
+    "c:\\Users\\Sajidh\\OneDrive\\Desktop\\test\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj",
-        "projectName": "Ecommerce.PhoneMax.Api",
-        "projectPath": "D:\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj",
+        "projectUniqueName": "c:\\Users\\Sajidh\\OneDrive\\Desktop\\test\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj",
+        "projectName": "Ecom.Api",
+        "projectPath": "c:\\Users\\Sajidh\\OneDrive\\Desktop\\test\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\Ecom.Api.csproj",
         "packagesPath": "C:\\Users\\Sajidh\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\obj\\",
+        "outputPath": "c:\\Users\\Sajidh\\OneDrive\\Desktop\\test\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\\Ecom.PhoneMax\\Ecom.Api\\src\\Ecom.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

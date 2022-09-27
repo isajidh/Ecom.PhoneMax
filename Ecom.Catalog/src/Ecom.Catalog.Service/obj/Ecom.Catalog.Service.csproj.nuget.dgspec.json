@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj": {}
+    "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj": {}
   },
   "projects": {
-    "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj": {
+    "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
+        "projectUniqueName": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
         "projectName": "Ecom.Catalog.Service",
-        "projectPath": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
+        "projectPath": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\Sajidh\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\obj\\",
+        "outputPath": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,7 +53,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
