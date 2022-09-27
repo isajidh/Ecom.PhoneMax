@@ -15,13 +15,13 @@ export default class GrantItemModal extends Component
     render()
     {
         return <Fragment>
-            <Button variant="primary" onClick={this.toggle}>Grant</Button>
+            <Button variant="primary" onClick={this.toggle}>Add to cart</Button>
             <Modal show={this.state.modal} className={this.props.className} onHide={this.toggle}>
-                <Modal.Header closeButton>Grant {this.props.item.name}</Modal.Header>
+                <Modal.Header closeButton>Add to Cart {this.props.item.name}</Modal.Header>
                 <Modal.Body>
                     <GrantItemForm
                         toggle={this.toggle}
-                        item={this.props.item}/>
+                        item={this.props.item} />
                 </Modal.Body>
             </Modal>
         </Fragment>;

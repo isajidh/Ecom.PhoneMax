@@ -2,20 +2,20 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { ApplicationPaths } from './Constants';
 
-export class Home extends Component
+export class About extends Component
 {
-  static displayName = Home.name;
+  static displayName = About.name;
 
   render()
   {
     return (
       <div>
         <h1>PhoneMax</h1>
-        <p>Welcome to the PhoneMax showroom</p>
-        <p>To get started, yout can:</p>
+        <p>Welcome to the PhoneMax iPhone website</p>
+        <p>To get started, you can:</p>
         <ul>
           <li>Manage the <Link to={ApplicationPaths.CatalogPath}>Catalog</Link></li>
-          <li>Check a user's <Link to={ApplicationPaths.InventoryPath}>Inventory</Link></li>
+          <li>Check a user's <Link to={ApplicationPaths.InventoryPath}>Cart</Link></li>
         </ul>
         <p>You can also</p>
         <ul>
@@ -23,7 +23,7 @@ export class Home extends Component
           <li>Explore the Open API documentation:
             <ul>
               <li><a href={`${window.CATALOG_SERVICE_URL}/swagger`} target="_blank" rel="noreferrer">Catalog service</a></li>
-              <li><a href={`${window.INVENTORY_SERVICE_URL}/swagger`} target="_blank" rel="noreferrer">Inventory service</a></li>
+              <li><a href={`${window.INVENTORY_SERVICE_URL}/swagger`} target="_blank" rel="noreferrer">Cart service</a></li>
             </ul>
           </li>
         </ul>

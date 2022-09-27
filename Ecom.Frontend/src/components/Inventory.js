@@ -96,7 +96,7 @@ export class Inventory extends Component
   {
     return (
       <div>
-        <h1 id="tabelLabel" >Inventory</h1>
+        <h1 id="tabelLabel" >Cart</h1>
         {this.renderInputs()}
         {this.renderItemsTable()}
       </div>
