@@ -33,6 +33,8 @@ namespace Ecom.Catalog.Service
             services.AddMongo()
                 .AddMongoRepository<Item>("items")
                 .AddMassTransitWithRabbitMq();
+
+                
             services.AddControllers(options =>
             {
                 options.SuppressAsyncSuffixInActionNames = false;

@@ -33,7 +33,6 @@ namespace Ecom.Catalog.Service.Controllers
             return items;
         }
 
-
         //GET /items/12453
         [HttpGet("{id}")]
         public async Task<ActionResult<ItemDto>> GetByIdAsync(Guid id)

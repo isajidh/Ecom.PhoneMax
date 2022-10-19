@@ -5,8 +5,14 @@ import { About } from './components/About';
 import { Catalog } from './components/Catalog';
 import { Inventory } from './components/Inventory';
 import { ApplicationPaths } from './components/Constants';
-
 import './App.css'
+// import express from "express";
+// const app = express()
+// import cors from "cors";
+// app.use(cors({
+//     origin:windows.CATALOG_ITEMS_API_URL
+// }));
+
 
 export default class App extends Component
 {

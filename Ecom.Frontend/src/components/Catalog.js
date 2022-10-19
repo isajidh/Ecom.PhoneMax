@@ -3,6 +3,7 @@ import { Col, Container, Row, Table, Button } from 'react-bootstrap';
 import ItemModal from './form/ItemModal';
 import GrantItemModal from './form/GrantItemModal';
 
+
 export class Catalog extends Component
 {
   static displayName = Catalog.name;
@@ -21,8 +22,9 @@ export class Catalog extends Component
   async populateItems()
   {
     fetch(`${window.CATALOG_ITEMS_API_URL}`)
-      .then(response => { 
-        return response.json(); 
+      .then(response =>
+      {
+        return response.json();
       })
       .then(returnedItems => this.setState({ items: returnedItems, loading: false, loadedSuccess: true }))
       .catch(err =>
@@ -81,6 +83,9 @@ export class Catalog extends Component
                 <th>Name</th>
                 <th>Description</th>
                 <th>Price</th>
+                <th>
+                  Image
+                </th>
                 <th style={{ textAlign: "center" }}>Actions</th>
               </tr>
             </thead>
@@ -100,17 +105,20 @@ export class Catalog extends Component
                     <td>
                       {item.price}
                     </td>
+                    <td>
+                      image
+                    </td>
                     <td align="center">
                       <div>
                         <ItemModal
                           isNew={false}
                           item={item}
                           updateItemIntoState={this.updateState} />
-                    &nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;
                         <GrantItemModal
                           item={item} />
-                    &nbsp;&nbsp;&nbsp;
-                    <Button variant="danger" onClick={() => this.deleteItem(item.id)}>Delete</Button>
+                        &nbsp;&nbsp;&nbsp;
+                        <Button variant="danger" onClick={() => this.deleteItem(item.id)}>Delete</Button>
                       </div>
                     </td>
                   </tr>
@@ -137,7 +145,7 @@ export class Catalog extends Component
 
     return (
       <div>
-        <h1 id="tabelLabel" >Catalog Items</h1>
+        <h1 id="tabelLabel" >Product Catalog</h1>
         {contents}
       </div>
     );

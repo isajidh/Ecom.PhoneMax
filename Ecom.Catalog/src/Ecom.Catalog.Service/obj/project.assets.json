@@ -1773,8 +1773,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sajidh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Sajidh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1785,9 +1784,6 @@
       "packagesPath": "C:\\Users\\Sajidh\\.nuget\\packages\\",
       "outputPath": "D:\\Assignment\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Sajidh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -1846,7 +1842,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

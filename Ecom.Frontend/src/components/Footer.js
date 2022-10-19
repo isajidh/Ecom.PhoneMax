@@ -7,7 +7,7 @@ export class Footer extends Component
     return (
       <footer className="footer border-top text-muted">
         <div className="container">
-          &copy; 2022 - PhoneMax
+          &copy; 2022 - iPhoneMax
         </div>
       </footer>
     );

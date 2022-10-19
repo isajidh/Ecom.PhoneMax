@@ -94,7 +94,7 @@ export default class GrantItemForm extends React.Component
                 <Form.Control type="number" name="quantity" onChange={this.onChange} value={this.state.quantity} required />
                 <Form.Control.Feedback type="invalid">The Quantity field is required</Form.Control.Feedback>
             </Form.Group>
-            <Button variant="primary" type="submit">Grant</Button>
+            <Button variant="primary" type="submit">Add</Button>
 
             <Alert style={{ marginTop: "10px" }} variant={this.state.alertColor} show={this.state.alertVisible}>
                 {this.state.alertMessage}
