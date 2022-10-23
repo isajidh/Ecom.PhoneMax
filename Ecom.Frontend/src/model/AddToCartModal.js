@@ -1,19 +1,16 @@
 import React, { Component, Fragment } from 'react';
 import { Button, Modal } from 'react-bootstrap';
-import AddToCartForm from './AddToCartForm';
-export default class AddToCartModal extends Component
-{
+import AddToCartForm from '../view/form/AddToCartForm';
+export default class AddToCartModal extends Component {
     state = {
         modal: false
     }
-    toggle = () =>
-    {
+    toggle = () => {
         this.setState(previous => ({
             modal: !previous.modal
         }));
     }
-    render()
-    {
+    render() {
         return <Fragment>
             <Button variant="primary" onClick={this.toggle}>Add to cart</Button>
             <Modal show={this.state.modal} className={this.props.className} onHide={this.toggle}>

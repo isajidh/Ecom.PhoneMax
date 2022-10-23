@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { ApplicationPaths } from './Constants';
+import { ApplicationPaths } from './constants';
 
-export class About extends Component
-{
+export class About extends Component {
   static displayName = About.name;
 
-  render()
-  {
+  render() {
     return (
       <div>
         <h1>PhoneMax</h1>

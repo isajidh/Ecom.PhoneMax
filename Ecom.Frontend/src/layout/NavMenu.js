@@ -1,27 +1,25 @@
 import React, { Component } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { ApplicationPaths } from './Constants';
-import companyLogo from "../Assets/Images/Logo/logo.png";
+import { ApplicationPaths } from '../view/constants';
+import companyLogo from "../assets/images/logo/logo.png";
 
-export class NavMenu extends Component
-{
+export class NavMenu extends Component {
   static displayName = NavMenu.name;
 
-  render()
-  {
+  render() {
     return (
       <header>
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand as={Link} to="/"><img src={companyLogo} alt="iPhoneMax Inc. logo"/></Navbar.Brand>
+            <Navbar.Brand as={Link} to="/"><img src={companyLogo} alt="iPhoneMax Inc. logo" /></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
                 <Nav.Link as={Link} to={ApplicationPaths.CartPath}>Cart</Nav.Link>
                 <Nav.Link as={Link} to={ApplicationPaths.AboutPath}>About Us</Nav.Link>
-                <Nav.Link as={Link} to="#">Login</Nav.Link>
-                <Nav.Link as={Link} to="#">SignUp</Nav.Link>
+                <Nav.Link as={Link} to={ApplicationPaths.LoginPath}>Login</Nav.Link>
+                <Nav.Link as={Link} to={ApplicationPaths.SignUpPath}>SignUp</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>

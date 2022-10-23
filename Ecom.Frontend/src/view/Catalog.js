@@ -1,79 +1,65 @@
 import React, { Component } from 'react';
 import { Col, Container, Row, Table, Button } from 'react-bootstrap';
-import ItemModal from './form/ItemModal';
-import AddToCartModal from './form/AddToCartModal';
+import ItemModal from '../model/ItemModal';
+import AddToCartModal from '../model/AddToCartModal';
 
 
-export class Catalog extends Component
-{
+export class Catalog extends Component {
   static displayName = Catalog.name;
 
-  constructor(props)
-  {
+  constructor(props) {
     super(props);
     this.state = { items: [], loading: true, loadedSuccess: false };
   }
 
-  componentDidMount()
-  {
+  componentDidMount() {
     this.populateItems();
   }
 
-  async populateItems()
-  {
+  async populateItems() {
     fetch(`${window.CATALOG_ITEMS_API_URL}`)
-      .then(response =>
-      {
+      .then(response => {
         return response.json();
       })
       .then(returnedItems => this.setState({ items: returnedItems, loading: false, loadedSuccess: true }))
-      .catch(err =>
-      {
+      .catch(err => {
         console.log(err);
         this.setState({ items: [], loading: false, loadedSuccess: false })
       });
   }
 
-  addItemToState = item =>
-  {
+  addItemToState = item => {
     this.setState(previous => ({
       items: [...previous.items, item]
     }));
   }
-  updateState = (id) =>
-  {
+  updateState = (id) => {
     this.populateItems();
   }
-  deleteItemFromState = id =>
-  {
+  deleteItemFromState = id => {
     const updated = this.state.items.filter(item => item.id !== id);
     this.setState({ items: updated })
   }
-  async deleteItem(id)
-  {
+  async deleteItem(id) {
     let confirmDeletion = window.confirm('Do you really wish to delete it?');
-    if (confirmDeletion)
-    {
+    if (confirmDeletion) {
       fetch(`${window.CATALOG_ITEMS_API_URL}/${id}`, {
         method: 'delete',
         headers: {
           'Content-Type': 'application/json'
         }
       })
-        .then(res =>
-        {
+        .then(res => {
           this.deleteItemFromState(id);
         })
-        .catch(err =>
-        {
+        .catch(err => {
           console.log(err);
           window.alert("Could not delete the item.");
         });
     }
   }
 
-  renderItemsTable(items)
-  {
+  renderItemsTable(items) {
     return <Container style={{ paddingTop: "10px", paddingLeft: "0px" }}>
       <Row>
         <Col>
@@ -135,8 +121,7 @@ export class Catalog extends Component
     </Container>;
   }
 
-  render()
-  {
+  render() {
     let contents = this.state.loading
       ? <p><em>Loading...</em></p>
       : this.state.loadedSuccess
