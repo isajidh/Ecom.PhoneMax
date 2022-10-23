@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import { Button, Modal } from 'react-bootstrap';
-import GrantItemForm from './GrantItemForm';
-export default class GrantItemModal extends Component
+import AddToCartForm from './AddToCartForm';
+export default class AddToCartModal extends Component
 {
     state = {
         modal: false
@@ -19,7 +19,7 @@ export default class GrantItemModal extends Component
             <Modal show={this.state.modal} className={this.props.className} onHide={this.toggle}>
                 <Modal.Header closeButton>Add to Cart {this.props.item.name}</Modal.Header>
                 <Modal.Body>
-                    <GrantItemForm
+                    <AddToCartForm
                         toggle={this.toggle}
                         item={this.props.item} />
                 </Modal.Body>

@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Form, Alert } from 'react-bootstrap';
 import { v4 as uuidv4 } from 'uuid';
 
-export default class GrantItemForm extends React.Component
+export default class AddToCartForm extends React.Component
 {
     state = {
         id: '',
@@ -44,7 +44,7 @@ export default class GrantItemForm extends React.Component
 
     async grantItem()
     {
-        fetch(`${window.INVENTORY_ITEMS_API_URL}`, {
+        fetch(`${window.CART_ITEMS_API_URL}`, {
             method: 'post',
             headers: {
                 'Content-Type': 'application/json'
@@ -52,7 +52,7 @@ export default class GrantItemForm extends React.Component
             body: JSON.stringify({
                 userId: this.state.userId,
                 catalogItemId: this.state.id,
-                quantity: parseInt(this.state.quantity)
+                quantity: Number(this.state.quantity)
             })
         })
             .then(async response =>

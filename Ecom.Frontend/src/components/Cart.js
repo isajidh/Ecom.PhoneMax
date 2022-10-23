@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Col, Container, Row, Table, Button, Form } from 'react-bootstrap';
 
-export class Inventory extends Component
+export class Cart extends Component
 {
-  static displayName = Inventory.name;
+  static displayName = Cart.name;
 
   constructor(props)
   {
@@ -24,7 +24,7 @@ export class Inventory extends Component
     }
 
     this.setState({ items: [], renderItems: true, loading: true, loadedSuccess: false })
-    fetch(`${window.INVENTORY_ITEMS_API_URL}?userId=${this.state.userId}`)
+    fetch(`${window.CART_ITEMS_API_URL}?userId=${this.state.userId}`)
       .then(response => response.json())
       .then(returnedItems => this.setState({ items: returnedItems, loading: false, loadedSuccess: true }))
       .catch(err =>
