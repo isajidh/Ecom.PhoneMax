@@ -1,252 +1,64 @@
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.exe
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.deps.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.pdb
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Api.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Threading.Channels.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfoInputs.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfo.cs
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CoreCompileInputs.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.Manifest.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.xml
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Catalog.Service.styles.css
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.RazorTargetAssemblyInfo.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CopyComplete
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.pdb
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax-Install CORS exxtension inside Chrome browser\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.genruntimeconfig.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.exe
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.deps.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.dev.json
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.pdb
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Api.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Threading.Channels.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.AssemblyReference.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfoInputs.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfo.cs
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CoreCompileInputs.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.Manifest.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.xml
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Catalog.Service.styles.css
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.RazorTargetAssemblyInfo.cache
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CopyComplete
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.pdb
-C:\Users\Sajidh\OneDrive\Desktop\test\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.genruntimeconfig.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.json
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.exe
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.deps.json
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.json
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.dev.json
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.pdb
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Api.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.Abstractions.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Threading.Channels.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.AssemblyReference.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfoInputs.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfo.cs
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CoreCompileInputs.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.Manifest.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.xml
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Catalog.Service.styles.css
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.RazorTargetAssemblyInfo.cache
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CopyComplete
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.pdb
-D:\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.genruntimeconfig.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.json
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.exe
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.deps.json
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.json
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.dev.json
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.pdb
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Api.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.Abstractions.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Threading.Channels.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.AssemblyReference.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfoInputs.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfo.cs
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CoreCompileInputs.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.Manifest.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.xml
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Catalog.Service.styles.css
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.RazorTargetAssemblyInfo.cache
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CopyComplete
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\ref\Ecom.Catalog.Service.dll
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.pdb
-D:\Assignment\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.genruntimeconfig.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\appsettings.json
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.exe
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.deps.json
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.json
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.runtimeconfig.dev.json
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\ref\Ecom.Catalog.Service.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Service.pdb
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Api.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Ecom.Catalog.Contracts.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.Abstractions.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.AssemblyReference.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfoInputs.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.AssemblyInfo.cs
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CoreCompileInputs.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.Manifest.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\staticwebassets\Ecom.Catalog.Service.StaticWebAssets.xml
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Catalog.Service.styles.css
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.RazorTargetAssemblyInfo.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.csproj.CopyComplete
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\ref\Ecom.Catalog.Service.dll
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.pdb
+C:\Projects\Ecom.PhoneMax\Ecom.Catalog\src\Ecom.Catalog.Service\obj\Debug\net5.0\Ecom.Catalog.Service.genruntimeconfig.cache
