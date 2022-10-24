@@ -63,7 +63,7 @@ export class Catalog extends Component {
     return <Container style={{ paddingTop: "10px", paddingLeft: "0px" }}>
       <Row>
         <Col>
-          <Table striped bordered hover >
+          <Table striped bordered hover variant="dark">
             <thead className="thead-dark">
               <tr>
                 <th>Name</th>
@@ -101,8 +101,8 @@ export class Catalog extends Component {
                           item={item}
                           updateItemIntoState={this.updateState} />
                         &nbsp;&nbsp;&nbsp;
-                        <AddToCartModal
-                          item={item} />
+                        {/* <AddToCartModal
+                          item={item} /> */}
                         &nbsp;&nbsp;&nbsp;
                         <Button variant="danger" onClick={() => this.deleteItem(item.id)}>Delete</Button>
                       </div>

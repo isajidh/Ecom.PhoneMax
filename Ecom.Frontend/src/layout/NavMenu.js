@@ -16,7 +16,7 @@ export class NavMenu extends Component {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
-                <Nav.Link as={Link} to={ApplicationPaths.CartPath}>Cart</Nav.Link>
+                {/* <Nav.Link as={Link} to={ApplicationPaths.CartPath}>Cart</Nav.Link> */}
                 <Nav.Link as={Link} to={ApplicationPaths.AboutPath}>About Us</Nav.Link>
                 <Nav.Link as={Link} to={ApplicationPaths.LoginPath}>Login</Nav.Link>
                 <Nav.Link as={Link} to={ApplicationPaths.SignUpPath}>SignUp</Nav.Link>
