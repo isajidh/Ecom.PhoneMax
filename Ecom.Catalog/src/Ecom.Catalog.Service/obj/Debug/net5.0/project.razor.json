@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Projects\\Ecom.PhoneMax\\Ecom.Cart\\src\\Ecom.Cart.Service\\Ecom.Cart.Service.csproj",
+  "FilePath": "c:\\Projects\\Ecom.PhoneMax\\Ecom.Catalog\\src\\Ecom.Catalog.Service\\Ecom.Catalog.Service.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,7 +15616,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "Ecom.Cart.Service",
+  "RootNamespace": "Ecom.Catalog.Service",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

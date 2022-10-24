@@ -71,7 +71,6 @@ C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Cart.Service.runtimeconfig.json
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Cart.Service.runtimeconfig.dev.json
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Cart.Service.dll
-C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\ref\Ecom.Cart.Service.dll
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Cart.Service.pdb
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\DnsClient.dll
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Api.dll
@@ -123,7 +122,6 @@ C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\staticwebassets\Ecom.Cart.Service.StaticWebAssets.Manifest.cache
-C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\staticwebassets\Ecom.Cart.Service.StaticWebAssets.xml
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\scopedcss\bundle\Ecom.Cart.Service.styles.css
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.RazorTargetAssemblyInfo.cache
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.csproj.CopyComplete
@@ -131,3 +129,5 @@ C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\ref\Ecom.Cart.Service.dll
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.pdb
 C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\Ecom.Cart.Service.genruntimeconfig.cache
+C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\bin\Debug\net5.0\Ecom.Cart.Service.StaticWebAssets.xml
+C:\Projects\Ecom.PhoneMax\Ecom.Cart\src\Ecom.Cart.Service\obj\Debug\net5.0\refint\Ecom.Cart.Service.dll

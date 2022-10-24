@@ -8,7 +8,7 @@ export class About extends Component {
   render() {
     return (
       <div>
-        <h1>PhoneMax</h1>
+        <h1>iPhoneMax</h1>
         <p>Welcome to the PhoneMax iPhone website</p>
         <p>To get started, you can:</p>
         <ul>
