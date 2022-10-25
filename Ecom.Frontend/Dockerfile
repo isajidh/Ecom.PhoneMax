@@ -25,7 +25,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 
 
-
+#testing
 #multi Stage
 # # STAGE 1
 # FROM node:lts-alpine AS build
