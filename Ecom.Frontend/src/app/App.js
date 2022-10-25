@@ -6,7 +6,7 @@ import { Catalog } from '../view/Catalog';
 import { Cart } from '../view/Cart';
 import { Login } from '../view/Login';
 import { SignUp } from '../view/SignUp';
-import { ApplicationPaths } from '../view/constants';
+import { ApplicationPaths } from '../constants';
 import '../assets/styles/App.css'
 
 // import express from "express";

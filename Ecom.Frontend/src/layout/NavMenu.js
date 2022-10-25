@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { ApplicationPaths } from '../view/constants';
+import { ApplicationPaths } from '../constants';
 import companyLogo from "../assets/images/logo/logo.png";
 
 export class NavMenu extends Component {

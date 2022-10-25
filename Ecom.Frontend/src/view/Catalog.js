@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Col, Container, Row, Table, Button } from 'react-bootstrap';
 import ItemModal from '../model/ItemModal';
-import AddToCartModal from '../model/AddToCartModal';
+// import AddToCartModal from '../model/AddToCartModal';
 
 
 export class Catalog extends Component {

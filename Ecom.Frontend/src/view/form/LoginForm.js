@@ -14,7 +14,6 @@ import "../../assets/styles/Login.css"
 import companyLogo from "../../assets/images/logo/logo.png";
 import { Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { ApplicationPaths } from '../constants';
 
 function LoginForm() {
     return (
