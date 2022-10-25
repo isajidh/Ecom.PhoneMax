@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { ApplicationPaths } from '../constants';
-import companyLogo from "../assets/images/logo/logo.png";
+import companyLogo from "../Assets/Images/Logo/logo.png";
 
 export class NavMenu extends Component {
   static displayName = NavMenu.name;

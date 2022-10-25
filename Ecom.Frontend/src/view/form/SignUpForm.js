@@ -11,7 +11,7 @@ import {
     MDBIcon
 }
     from 'mdb-react-ui-kit';
-import '../../assets/styles/SignUpForm.css';
+import '../../Assets/styles/SignUpForm.css';
 function SignUpForm() {
     return (
         <div>

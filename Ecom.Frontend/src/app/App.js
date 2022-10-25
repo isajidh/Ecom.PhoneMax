@@ -7,7 +7,7 @@ import { Cart } from '../view/Cart';
 import { Login } from '../view/Login';
 import { SignUp } from '../view/SignUp';
 import { ApplicationPaths } from '../constants';
-import '../assets/styles/App.css'
+import '../Assets/styles/App.css'
 
 // import express from "express";
 // const app = express()

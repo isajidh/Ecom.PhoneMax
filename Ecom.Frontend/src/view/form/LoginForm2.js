@@ -9,7 +9,7 @@ import {
     MDBInput,
     MDBIcon
 } from 'mdb-react-ui-kit';
-import '../../assets/styles/LoginForm2.css';
+import '../../Assets/styles/LoginForm2.css';
 
 function LoginForm2() {
     return (

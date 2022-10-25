@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './assets/styles/index.css';
+import './Assets/styles/index.css';
 import { BrowserRouter } from 'react-router-dom';
 import App from './app/App';
 import reportWebVitals from './reportWebVitals';
